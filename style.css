@@ -114,12 +114,12 @@ Body{
     margin: 0 auto;
     margin-top: 34px;
     border-radius: 6px;
-    padding: 52px 0px 48px 63px;
+    padding: 52px 30px 48px 33px;
 }
 #IconDiv1{  
     border-right: 2px solid #e5e5e5;
     border-bottom: 2px solid #e5e5e5;
-    padding: 0px 61px 51px 0px;
+    padding: 0px 43px 51px 18px;
     display: inline-block;
     text-align: center;
 }
@@ -134,10 +134,10 @@ Body{
 }
 #IconDiv2{
     border-bottom: 2px solid #e5e5e5;
-    padding: 0px 0px 51px 56px;
+    padding: 0px 0px 51px 20px;
     display: inline-block;
     text-align: center;
-    margin-left: -3px;
+    margin-left: -5px;
 }
 #IconDiv2 .fa-area-chart{
     background-color: #7fcdb8;
@@ -150,7 +150,7 @@ Body{
 }
 #IconDiv3{
     border-right: 2px solid #e5e5e5;
-    padding: 48px 61px 0px 0px;
+    padding: 48px 43px 0px 18px;
     display: inline-block;
     text-align: center;
 }
@@ -166,7 +166,7 @@ Body{
 #IconDiv4{
     display: inline-block;
     text-align: center;
-    padding: 0px 61px 0px 56px;
+    padding: 0px 20px 0px 19px;
 }
 #IconDiv4 .fa-lock{
     background-color: #e5cb95;
@@ -196,7 +196,7 @@ Body{
 #ImgSection div{
     display: inline-block;
     text-align: center;
-    width: 48%;
+    width: 47.98%;
     border-radius: 10px;
     background-color: white;
     color: #787878
